@@ -8,17 +8,23 @@ description: test page
 
 ### 
 
-```text
-code block blah blah
+```typescript
+function test () {
+    return 'test'
+}
 ```
 
 {% tabs %}
 {% tab title="First Tab" %}
-Tabs blah blah
+Tabs blah blahfasdffasdfasdfasdf
+{% endtab %}
+
+{% tab title="fasdfasdf" %}
+ffasdfasdf
 {% endtab %}
 
 {% tab title="Second Tab" %}
-
+fasdfasdf
 {% endtab %}
 {% endtabs %}
 
@@ -54,5 +60,8 @@ Tabs blah blah
 {% endapi-method-spec %}
 {% endapi-method %}
 
-
+| dfasdf | fasdfasdf |
+| :--- | :--- |
+| dsafasdfasf | fasdfasdf |
+| sadfasdf | asdfasdf |
 
