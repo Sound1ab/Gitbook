@@ -14,7 +14,5 @@ f
 
 adffgsdfgdfsgt
 
-*   one
-
-  *   two
-    *   three
+* one
+  * two
