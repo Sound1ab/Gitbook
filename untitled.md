@@ -15,8 +15,7 @@ f
 adffgsdfgdfsgt
 
 *   hello
-
-*   two
+    *   two
 
 <!---->
 
@@ -25,5 +24,4 @@ adffgsdfgdfsgt
         *   three
 
 *   one
-
-*   two
+    *   two
