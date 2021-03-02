@@ -29,5 +29,3 @@ Paragraph with some `inlinecode` yada yada
 Paragraph with some link text
 
 Image
-
-##
