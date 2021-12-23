@@ -47,8 +47,6 @@ adsfakfj
     asdffjaklsdfj;alsf
     this is some more code tst
 
-
-
 df
 
 > Nested blockquote
