@@ -20,9 +20,7 @@ paragraph text yada yada
 
     *   Indented bullet point
 
-Bold and italic text fasdf sadf f this is a test asdf asdfa adf a
-
-
+Bold and italic text fasdf sadf f this is a test asdf asdfa adf a s
 
 fasdfasd
 
@@ -34,7 +32,7 @@ df
 
 > Nested blockquote
 
-Paragraph with some `inlinecode` yada yadakhello adf a asdf as adf 
+Paragraph with some `inlinecode` yada yadakhello adf a asdf as adf
 
 Paragraph with some link textcsdfsd fas kh asdf asd asd f
 
