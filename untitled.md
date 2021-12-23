@@ -20,7 +20,7 @@ paragraph text yada yada
 
     *   Indented bullet point
 
-Bold and italic text fasdf sadf f this is a test asdf asdfa adf a s
+Bold and italic text fasdf sadf f this is a test asdf asdfa adf a sd
 
 fasdfasd
 
