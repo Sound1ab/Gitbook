@@ -20,7 +20,7 @@ paragraph text yada yada
 
     *   Indented bullet point
 
-Bold and italic text fasdf
+Bold and italic text fasdf sadf f
 
 > Nested blockquote
 
