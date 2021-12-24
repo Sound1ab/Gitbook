@@ -6,7 +6,7 @@ description: test page
 
 ## Some content blah blah
 
-### 
+###
 
 ```typescript
 function test () {
@@ -16,7 +16,11 @@ function test () {
 
 {% tabs %}
 {% tab title="First Tab" %}
-Tabs blah blahfasdffasdfasdfasdf
+Tabs blah blahfasdffasdfasdfasdf asdf asdf asdf
+{% endtab %}
+
+{% tab title="Untitled" %}
+
 {% endtab %}
 
 {% tab title="fasdfasdf" %}
@@ -28,40 +32,22 @@ fasdfasdf
 {% endtab %}
 {% endtabs %}
 
-{% api-method method="get" host="" path="" %}
-{% api-method-summary %}
+{% swagger baseUrl="" path="" method="get" summary="" %}
+{% swagger-description %}
 
-{% endapi-method-summary %}
+{% endswagger-description %}
 
-{% api-method-description %}
+{% swagger-parameter in="path" name="" type="string" %}
 
-{% endapi-method-description %}
+{% endswagger-parameter %}
 
-{% api-method-spec %}
-{% api-method-request %}
-{% api-method-path-parameters %}
-{% api-method-parameter name="" type="string" required=false %}
-
-{% endapi-method-parameter %}
-{% endapi-method-path-parameters %}
-{% endapi-method-request %}
-
-{% api-method-response %}
-{% api-method-response-example httpCode=200 %}
-{% api-method-response-example-description %}
-
-{% endapi-method-response-example-description %}
-
+{% swagger-response status="200" description="" %}
 ```
-
 ```
-{% endapi-method-response-example %}
-{% endapi-method-response %}
-{% endapi-method-spec %}
-{% endapi-method %}
+{% endswagger-response %}
+{% endswagger %}
 
-| dfasdf | fasdfasdf |
-| :--- | :--- |
+| dfasdf      | fasdfasdf |
+| ----------- | --------- |
 | dsafasdfasf | fasdfasdf |
-| sadfasdf | asdfasdf |
-
+| sadfasdf    | asdfasdf  |
