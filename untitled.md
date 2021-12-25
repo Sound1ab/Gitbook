@@ -19,6 +19,8 @@ paragraph text yada yada f s asd asdf asdf
 *   Bullet pointdsfsdf
 
     *   Indented bullet point lklkl asdf
+*   sadfasdfasdf
+    *
 
 Bold and italic text fasdf sadf f this is a test asdf asdfa adf a sd s d s s sjjjjjkkjj
 
