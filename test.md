@@ -33,7 +33,7 @@ asdfasf
 
 sadfasdfasdf
 
-inline codeblock
+`inline codeblock`
 
     code block of os
     adfklasdf
