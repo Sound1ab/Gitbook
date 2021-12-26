@@ -10,10 +10,4 @@ FASDFASDFASDFSADFASDF
 
 Line break kind of works
 
-asdfkjas;ldf
-
-|   |   |
-| - | - |
-|   |   |
-
-sadfasdf
+asdfkjas;ld
