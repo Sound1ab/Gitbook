@@ -33,6 +33,9 @@ fasdfasdf
 {% endtab %}
 {% endtabs %}
 
+* [x] check lisit 1
+* [ ] check list 2
+
 {% swagger baseUrl="" path="" method="get" summary="" %}
 {% swagger-description %}
 
