@@ -22,4 +22,6 @@ Paragraph of text
 
     *   listitem indent
 
-        *   list item inde
+        *   list item indent 1
+
+*
