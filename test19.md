@@ -14,7 +14,7 @@ blah blah lb
 
 fasdfasdfasdfdsadfasdf
 
-afsdfasdf
+afsdfasdf fasdf
 
 | hello there | hey     |
 | ----------- | ------- |
@@ -24,5 +24,5 @@ afsdfasdf
 
 sdfasdf
 
-* [x] checklist item 1
-* [ ] checklist item 2
+*   [x] checklist item 1
+*   [ ] checklist item 2
