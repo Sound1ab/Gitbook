@@ -18,4 +18,4 @@ afsdfasdf
 
 | hello there | hey |
 | ----------- | --- |
-| hi there    |     |
+| hi there    | hey |
