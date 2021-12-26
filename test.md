@@ -32,4 +32,3 @@ Paragraph of text
 | adsfsdf  | asdfasdf |
 | -------- | -------- |
 | asdfadsf | asdfasdf |
-| Content  | asdfasdf |
