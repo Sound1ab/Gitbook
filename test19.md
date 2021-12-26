@@ -15,6 +15,8 @@ blah blah lb
 fasdfasdfasdfdsadfasdf
 
 afsdfasdf fasdf
+- list item 1
+- list item 2
 
 | hello there | hey     |
 | ----------- | ------- |
