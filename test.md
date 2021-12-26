@@ -29,6 +29,6 @@ Paragraph of text
     code block of os
     adfklasdf
 
-|   |   |
-| - | - |
-|   |   |
+| fasdfasdf |   |
+| --------- | - |
+|           |   |
