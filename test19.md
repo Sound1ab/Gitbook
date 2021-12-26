@@ -16,6 +16,6 @@ fasdfasdfasdfdsadfasdf
 
 afsdfasdf
 
-| hello there |   |
-| ----------- | - |
-| hi there    |   |
+| hello there | hey |
+| ----------- | --- |
+| hi there    |     |
