@@ -6,7 +6,7 @@
 
 FASDFASDFASDFSADFASDF
 
-| content |         |
-| ------- | ------- |
-| content |         |
-| Content | Content |
+| content |
+| ------- |
+| content |
+| Content |
