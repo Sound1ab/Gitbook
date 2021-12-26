@@ -31,4 +31,4 @@ Paragraph of text
 
 | fasdfasdf |   |
 | --------- | - |
-|           |   |
+| fasdfasdf |   |
