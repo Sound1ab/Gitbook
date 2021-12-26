@@ -29,7 +29,7 @@ Paragraph of text
     code block of os
     adfklasdf
 
-| fasdfasdf |          |
+| fasdfasdf | asdfasdf |
 | --------- | -------- |
-| fasdfasdf |          |
+| fasdfasdf | asdfasdf |
 | fasdf     | asdfasdf |
