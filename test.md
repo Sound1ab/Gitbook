@@ -24,4 +24,4 @@ Paragraph of text
 
         *   list item indent 1
 
-*
+d
