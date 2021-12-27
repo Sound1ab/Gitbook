@@ -16,8 +16,7 @@ fasdfasdfasdfdsadfasdf
 
 afsdfasdf fasdf
 
-*   list item 1
-*   dfvasdfasdf
+*
 
 | hello there | hey     |
 | ----------- | ------- |
