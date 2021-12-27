@@ -18,5 +18,3 @@ test
 *   this is a list
 
 *   this is a nother list
-
-*
