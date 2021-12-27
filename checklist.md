@@ -20,6 +20,6 @@ deleted
 *   what is going on
     *   another
         *   another
-*   [ ] thing 
-*   [ ] thing 2
+*   [x] thing 
+*   [x] thing 2
 
