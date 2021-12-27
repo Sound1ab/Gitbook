@@ -14,13 +14,3 @@
 
 *   asdff
     *
-
-*   sadf
-
-    asdfasdfasdf
-
-    fasdfasdf
-
-*   sadfa
-
-*   sdf
