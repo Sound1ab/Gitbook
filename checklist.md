@@ -17,3 +17,4 @@ another
 
 deleted
 
+*
