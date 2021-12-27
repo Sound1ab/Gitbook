@@ -28,4 +28,4 @@ afsdfasdf fasdf
 sdfasdf
 
 *   [x] checklsdfasdfist item 1deksdsdddd
-*   [x] checklist item 2dsadf
+*   [x] checasdfasdfklist item 2dsadf
