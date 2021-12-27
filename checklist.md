@@ -27,5 +27,5 @@ afsdfasdf fasdf
 
 sdfasdf
 
-*   [ ] checklist item 1deksds
+*   [x] checklist item 1deksds
 *   [x] checklist item 2dsadf
