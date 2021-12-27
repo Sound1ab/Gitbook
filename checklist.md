@@ -3,9 +3,9 @@
 
 nice it worked
 
-*   [ ] asdfasdf
+*   asdfasdf
 
-*   [ ] asdfasdf
+*   asdfasdf
 
 <!---->
 
@@ -13,4 +13,4 @@ nice it worked
 
 <!---->
 
-*   [ ] asdfasdf
+*   asdfasdf
