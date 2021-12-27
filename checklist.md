@@ -23,7 +23,11 @@ t est
 
 *   fasdfasdffasdf
 
-something
+<!---->
+
+*
+
+<!---->
 
 *   something
 
