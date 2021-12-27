@@ -15,4 +15,3 @@ hello
 
 another
 
-*   [x] this is another d
