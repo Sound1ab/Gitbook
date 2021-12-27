@@ -18,5 +18,3 @@ another
 deleted
 
 *   [ ] this
-
-*
