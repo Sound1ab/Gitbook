@@ -11,8 +11,6 @@ nice it worked
 
 <!---->
 
-*   asdfasd
-
 <!---->
 
 *   [ ] asdfasdfqwer
