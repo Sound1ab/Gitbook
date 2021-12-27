@@ -11,7 +11,7 @@ nice it worked
 
 <!---->
 
-*   asdfasdf
+*   asdfasd
 
 <!---->
 
