@@ -3,8 +3,8 @@
 
 nice it worked
 
-*   [ ] asdfasdfqwer
-*   [ ] asdfasdf
+*   [x] asdfasdfqwer
+*   [x] asdfasdf
 
 
 
