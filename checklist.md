@@ -9,6 +9,3 @@ test
 *   [ ] jklkjlkjl
 *   [ ] checklist
 
-<!---->
-
-*
