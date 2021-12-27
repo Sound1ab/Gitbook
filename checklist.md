@@ -27,4 +27,3 @@ afsdfasdf fasdf
 
 sdfasdf
 
-*
