@@ -18,8 +18,6 @@ afsdfasdf fasdf
 
 *   list item 1
 
-
-
 | hello there | hey     |
 | ----------- | ------- |
 | hi there    | test    |
