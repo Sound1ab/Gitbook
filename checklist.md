@@ -4,3 +4,14 @@
 nice it worked
 
 *   [ ] asdfasdfqwer
+*   [ ] asdfasdf
+
+<!---->
+
+*   asdfasdf
+
+*   asdfsf
+
+<!---->
+
+*   [ ] asdfasdf
