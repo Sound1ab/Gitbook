@@ -16,8 +16,6 @@ fasdfasdfasdfdsadfasdf
 
 afsdfasdf fasdf
 
-*
-
 | hello there | hey     |
 | ----------- | ------- |
 | hi there    | test    |
