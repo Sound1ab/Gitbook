@@ -23,5 +23,3 @@ afsdfasdf fasdf
 | Content     | Content |
 
 sdfasdf
-
-* [ ] ch
