@@ -3,8 +3,6 @@
 
 nice it worked
 
-*   asdfasdf
-
 <!---->
 
 
