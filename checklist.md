@@ -2,7 +2,6 @@
 
 nice it worked
 
-this is 
+this is
 
-*   something
-
+*   somethingd
