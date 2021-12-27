@@ -8,4 +8,3 @@ fasdfs
 
 *   [ ] asdfasdf
 
-*
