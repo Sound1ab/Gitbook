@@ -15,8 +15,9 @@ blah blah lb
 fasdfasdfasdfdsadfasdf
 
 afsdfasdf fasdf
-- list item 1
-- list item 2
+
+*   list item 1
+*   list item 2
 
 | hello there | hey     |
 | ----------- | ------- |
@@ -26,5 +27,5 @@ afsdfasdf fasdf
 
 sdfasdf
 
-*   [x] checklist item 1
+*   [x] checklist item 1d
 *   [ ] checklist item 2
