@@ -25,8 +25,3 @@ afsdfasdf fasdf
 sdfasdf
 
 yes i did it baby
-
-*   [x] asdfasdf
-
-*   [x] asdfasdfas
-
