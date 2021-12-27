@@ -23,3 +23,12 @@ t est
 
 *   fasdfasdffasdf
 
+something
+
+*   something
+
+something
+
+*   something
+
+something
