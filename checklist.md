@@ -6,7 +6,3 @@ this is
 
 *   somethingdk
 
-<!---->
-
-*   [ ] asdfd
-*   [ ] fasdf
