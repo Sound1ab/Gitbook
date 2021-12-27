@@ -15,3 +15,8 @@ hello
 
 another
 
+deleted
+
+*   [ ] this
+
+*
