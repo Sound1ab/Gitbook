@@ -26,7 +26,7 @@ sdfasdf
 
 yes i did it baby
 
-*   [ ] asdfasdf
+*   [x] asdfasdf
 
-*   [ ] asdfasdfas
+*   [x] asdfasdfas
 
