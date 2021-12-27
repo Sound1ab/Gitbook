@@ -7,8 +7,6 @@ nice it worked
 
 <!---->
 
-<!---->
-
 *   [ ] asdfasdf
 
 <!---->
