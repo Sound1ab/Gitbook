@@ -7,7 +7,4 @@ test
 test
 
 *   [ ] jklkjlkjl
-
-<!---->
-
-*
+*   [ ] checklist
