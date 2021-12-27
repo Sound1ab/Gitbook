@@ -12,5 +12,3 @@ test
 <!---->
 
 *   [ ] this is a tcheck
-
-*
