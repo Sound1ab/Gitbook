@@ -4,16 +4,7 @@
 nice it worked
 
 *   [x] asdfasdfqwer
-*   [x] asdfasdf
 
+*   [x] as
 
-
-*   list
-
-
-
-*   [x] asdf
-
-
-
-*   list
+*
