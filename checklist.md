@@ -31,8 +31,9 @@ t est
 
 *   something
 
-something
+<!---->
 
+*
 *   something
 
 something
