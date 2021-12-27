@@ -19,8 +19,6 @@ afsdfasdf fasdf
 *   list item 1
 *   dfvasdfasdf
 
-
-
 | hello there | hey     |
 | ----------- | ------- |
 | hi there    | test    |
@@ -29,4 +27,3 @@ afsdfasdf fasdf
 
 sdfasdf
 
-*
